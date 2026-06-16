@@ -58,44 +58,37 @@ Na atividade anterior, o app permitia buscar músicas de um artista pela iTunes 
 <table align="center">
   <tr>
     <td align="center" width="200">
-      <img src="<img width="253" height="558" alt="Captura de Tela 2026-06-16 às 17 57 31" src="https://github.com/user-attachments/assets/784efa47-952b-4714-a2f3-9b90cb4bc047" />
-)" width="200" />
+      <img src="https://github.com/user-attachments/assets/784efa47-952b-4714-a2f3-9b90cb4bc047" width="200" />
       <p><b>1. Tela principal</b></p>
     </td>
     <td align="center" width="200">
-      <img src="<img width="251" height="559" alt="Captura de Tela 2026-06-16 às 17 57 50" src="https://github.com/user-attachments/assets/aded11a1-ba21-48cb-89e3-a20c423d94d4" />
-" width="200" />
+      <img src="https://github.com/user-attachments/assets/aded11a1-ba21-48cb-89e3-a20c423d94d4" width="200" />
       <p><b>2. Resultados</b></p>
     </td>
   </tr>
   <tr>
     <td align="center" width="200">
-      <img src="<img width="248" height="557" alt="Captura de Tela 2026-06-16 às 17 59 13" src="https://github.com/user-attachments/assets/8c909e7d-1807-4dbb-a47d-c3add0515853" />
-" width="200" />
+      <img src="https://github.com/user-attachments/assets/8c909e7d-1807-4dbb-a47d-c3add0515853" width="200" />
       <p><b>3. Adicionando ao tier</b></p>
     </td>
     <td align="center" width="200">
-      <img src="<img width="250" height="559" alt="Captura de Tela 2026-06-16 às 18 11 11" src="https://github.com/user-attachments/assets/dea61dc9-3291-4253-83e9-3390a5463aa7" />
-" width="200" />
+      <img src="https://github.com/user-attachments/assets/dea61dc9-3291-4253-83e9-3390a5463aa7" width="200" />
       <p><b>4. Tier List montada</b></p>
     </td>
   </tr>
   <tr>
     <td align="center" width="200">
-      <img src="<img width="250" height="559" alt="Captura de Tela 2026-06-16 às 18 12 38" src="https://github.com/user-attachments/assets/a3db8b67-e523-42de-aace-2b17b3611b5b" />
-" width="200" />
+      <img src="https://github.com/user-attachments/assets/a3db8b67-e523-42de-aace-2b17b3611b5b" width="200" />
       <p><b>5. Diálogo de exportação</b></p>
     </td>
     <td align="center" width="200">
-      <img src="<img width="250" height="559" alt="Captura de Tela 2026-06-16 às 18 02 13" src="https://github.com/user-attachments/assets/6305d67e-0ff3-4c9f-ae3a-5deddde29ae0" />
-" width="200" />
+      <img src="https://github.com/user-attachments/assets/6305d67e-0ff3-4c9f-ae3a-5deddde29ae0" width="200" />
       <p><b>6. Permissão solicitada</b></p>
     </td>
   </tr>
   <tr>
     <td align="center" width="200">
-      <img src="<img width="250" height="559" alt="Captura de Tela 2026-06-16 às 18 03 15" src="https://github.com/user-attachments/assets/2cc9cf45-4133-43ec-8bf0-da02afdc8ef2" />
-" width="200" />
+      <img src="https://github.com/user-attachments/assets/2cc9cf45-4133-43ec-8bf0-da02afdc8ef2" width="200" />
       <p><b>7. Story exportado</b></p>
     </td>
   </tr>
