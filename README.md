@@ -65,8 +65,6 @@ Na atividade anterior, o app permitia buscar músicas de um artista pela iTunes 
       <img src="https://github.com/user-attachments/assets/aded11a1-ba21-48cb-89e3-a20c423d94d4" width="200" />
       <p><b>2. Resultados</b></p>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="200">
       <img src="https://github.com/user-attachments/assets/8c909e7d-1807-4dbb-a47d-c3add0515853" width="200" />
       <p><b>3. Adicionando ao tier</b></p>
@@ -85,8 +83,6 @@ Na atividade anterior, o app permitia buscar músicas de um artista pela iTunes 
       <img src="https://github.com/user-attachments/assets/6305d67e-0ff3-4c9f-ae3a-5deddde29ae0" width="200" />
       <p><b>6. Permissão solicitada</b></p>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="200">
       <img src="https://github.com/user-attachments/assets/2cc9cf45-4133-43ec-8bf0-da02afdc8ef2" width="200" />
       <p><b>7. Story exportado</b></p>
