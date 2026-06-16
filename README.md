@@ -65,16 +65,18 @@ Na atividade anterior, o app permitia buscar músicas de um artista pela iTunes 
       <img src="https://github.com/user-attachments/assets/aded11a1-ba21-48cb-89e3-a20c423d94d4" width="200" />
       <p><b>2. Resultados</b></p>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="200">
       <img src="https://github.com/user-attachments/assets/8c909e7d-1807-4dbb-a47d-c3add0515853" width="200" />
       <p><b>3. Adicionando ao tier</b></p>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="200">
       <img src="https://github.com/user-attachments/assets/dea61dc9-3291-4253-83e9-3390a5463aa7" width="200" />
       <p><b>4. Tier List montada</b></p>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="200">
       <img src="https://github.com/user-attachments/assets/a3db8b67-e523-42de-aace-2b17b3611b5b" width="200" />
       <p><b>5. Diálogo de exportação</b></p>
