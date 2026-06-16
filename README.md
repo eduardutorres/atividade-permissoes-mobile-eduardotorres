@@ -55,7 +55,44 @@ Na atividade anterior, o app permitia buscar músicas de um artista pela iTunes 
 6. Testar a funcionalidade que solicita permissão: adicionar músicas aos tiers e tocar em "Exportar Tier List".
 
 ## Prints do aplicativo
-> Adicione prints da tela principal, do resultado da API e da tela/fluxo de permissão.
+<table align="center">
+  <tr>
+    <td align="center" width="200">
+      <img src="https://github.com/user-attachments/assets/4b7aaaf3-943b-4ebb-b18b-81986914ea29" width="200" />
+      <p><b>1. Tela principal</b></p>
+    </td>
+    <td align="center" width="200">
+      <img src="https://github.com/user-attachments/assets/3272eb41-f5c8-4847-bb56-b68650c8a33e" width="200" />
+      <p><b>2. Resultados</b></p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200">
+      <img src="https://github.com/user-attachments/assets/550618d6-a8e7-4c94-84b0-64e46578ed70" width="200" />
+      <p><b>3. Adicionando ao tier</b></p>
+    </td>
+    <td align="center" width="200">
+      <img src="https://github.com/user-attachments/assets/3ea114ed-5045-406c-8bbf-84c64d981d54" width="200" />
+      <p><b>4. Tier List montada</b></p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200">
+      <img src="https://github.com/user-attachments/assets/0cf5e3d3-1216-4cbc-b089-074bd0898cff" width="200" />
+      <p><b>5. Diálogo de exportação</b></p>
+    </td>
+    <td align="center" width="200">
+      <img src="https://github.com/user-attachments/assets/4cd4a4f1-5924-4ad4-95a9-d0c9503502dd" width="200" />
+      <p><b>6. Permissão solicitada</b></p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200">
+      <img src="https://github.com/user-attachments/assets/1fd9e006-d4b6-4e39-9713-cd7433ae66ee" width="200" />
+      <p><b>7. Story exportado</b></p>
+    </td>
+  </tr>
+</table>
 
 ## Autor
 Eduardo Vieira Torres dos Santos.
