@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/storyCanvas"
+    android:layout_width="1080px"
+    android:layout_height="1920px"
+    android:orientation="vertical"
+    android:background="#121212"
+    android:padding="42px">
+
+    <TextView
+        android:id="@+id/storyTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="My Tier List"
+        android:textColor="#e0e0e0"
+        android:textSize="52sp"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:layout_marginTop="40px"
+        android:layout_marginBottom="80px"/>
+
+    <!-- Tier List -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="#282828"
+        android:padding="6px">
+
+        <!-- Tier S -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="180px"
+            android:orientation="horizontal"
+            android:layout_marginBottom="6px"
+            android:background="#1A1A1A">
+            <androidx.appcompat.widget.AppCompatButton
+                android:layout_width="160px"
+                android:layout_height="match_parent"
+                android:text="S"
+                android:backgroundTint="#FF6B6B"
+                android:textColor="#000000"
+                android:textStyle="bold"
+                android:textSize="36sp"
+                android:padding="0dp"/>
+            <LinearLayout
+                android:id="@+id/storyContainerS"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal"
+                android:gravity="center_vertical"
+                android:padding="12px"/>
+        </LinearLayout>
+
+        <!-- Tier A -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="180px"
+            android:orientation="horizontal"
+            android:layout_marginBottom="6px"
+            android:background="#1A1A1A">
+            <androidx.appcompat.widget.AppCompatButton
+                android:layout_width="160px"
+                android:layout_height="match_parent"
+                android:text="A"
+                android:backgroundTint="#FF9B6B"
+                android:textColor="#000000"
+                android:textStyle="bold"
+                android:textSize="36sp"
+                android:padding="0dp"/>
+            <LinearLayout
+                android:id="@+id/storyContainerA"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal"
+                android:gravity="center_vertical"
+                android:padding="12px"/>
+        </LinearLayout>
+
+        <!-- Tier B -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="180px"
+            android:orientation="horizontal"
+            android:layout_marginBottom="6px"
+            android:background="#1A1A1A">
+            <androidx.appcompat.widget.AppCompatButton
+                android:layout_width="160px"
+                android:layout_height="match_parent"
+                android:text="B"
+                android:backgroundTint="#FFD06B"
+                android:textColor="#000000"
+                android:textStyle="bold"
+                android:textSize="36sp"
+                android:padding="0dp"/>
+            <LinearLayout
+                android:id="@+id/storyContainerB"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal"
+                android:gravity="center_vertical"
+                android:padding="12px"/>
+        </LinearLayout>
+
+        <!-- Tier C -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="180px"
+            android:orientation="horizontal"
+            android:layout_marginBottom="6px"
+            android:background="#1A1A1A">
+            <androidx.appcompat.widget.AppCompatButton
+                android:layout_width="160px"
+                android:layout_height="match_parent"
+                android:text="C"
+                android:backgroundTint="#FFF06B"
+                android:textColor="#000000"
+                android:textStyle="bold"
+                android:textSize="36sp"
+                android:padding="0dp"/>
+            <LinearLayout
+                android:id="@+id/storyContainerC"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal"
+                android:gravity="center_vertical"
+                android:padding="12px"/>
+        </LinearLayout>
+
+        <!-- Tier D -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="180px"
+            android:orientation="horizontal"
+            android:layout_marginBottom="6px"
+            android:background="#1A1A1A">
+            <androidx.appcompat.widget.AppCompatButton
+                android:layout_width="160px"
+                android:layout_height="match_parent"
+                android:text="D"
+                android:backgroundTint="#B8F06B"
+                android:textColor="#000000"
+                android:textStyle="bold"
+                android:textSize="36sp"
+                android:padding="0dp"/>
+            <LinearLayout
+                android:id="@+id/storyContainerD"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal"
+                android:gravity="center_vertical"
+                android:padding="12px"/>
+        </LinearLayout>
+
+        <!-- Tier E -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="180px"
+            android:orientation="horizontal"
+            android:background="#1A1A1A">
+            <androidx.appcompat.widget.AppCompatButton
+                android:layout_width="160px"
+                android:layout_height="match_parent"
+                android:text="E"
+                android:backgroundTint="#6BF0A0"
+                android:textColor="#000000"
+                android:textStyle="bold"
+                android:textSize="36sp"
+                android:padding="0dp"/>
+            <LinearLayout
+                android:id="@+id/storyContainerE"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal"
+                android:gravity="center_vertical"
+                android:padding="12px"/>
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>
