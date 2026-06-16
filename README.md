@@ -1,4 +1,4 @@
-# Music Tier List — Versão com Permissão Android
+# Tier List — Versão com Permissão Android
 
 ## Descrição
 Aplicativo Android de Tier List musical que consome a iTunes Search API para buscar músicas de um artista e classificá-las nos níveis S, A, B, C, D e E. Nesta versão, foi adicionada a funcionalidade de exportar a Tier List como imagem Story (1080x1920px) para a galeria do dispositivo, utilizando permissão Android de armazenamento externo.
