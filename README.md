@@ -8,7 +8,7 @@ Na atividade anterior, o app permitia buscar músicas de um artista pela iTunes 
 
 ## API utilizada
 - **Nome da API:** iTunes Search API
-- **Endpoint utilizado:** `https://itunes.apple.com/search?term={artista}&media=music&entity=song&limit=10&country=br`
+- **Endpoint utilizado:** [`https://itunes.apple.com/search`](https://itunes.apple.com/search)
 - **Dados exibidos no app:** Nome da música (trackName), nome do artista (artistName), álbum (collectionName) e capa do álbum (artworkUrl100)
 
 ## Permissão Android utilizada
@@ -26,7 +26,7 @@ Na atividade anterior, o app permitia buscar músicas de um artista pela iTunes 
 ```
 
 ## Fluxo da permissão
-1. **A permissão já foi concedida:** O app gera a imagem e salva diretamente na galeria, exibindo "✅ Story salvo na Galeria!".
+1. **A permissão já foi concedida:** O app gera a imagem e salva diretamente na galeria, exibindo "Story salvo na Galeria!".
 2. **O usuário concede a permissão:** Após aceitar o diálogo do sistema, o app executa a exportação normalmente e salva a imagem na galeria.
 3. **O usuário nega a permissão:** O app exibe um diálogo informando que sem a permissão a exportação não é possível, mas o restante do app continua funcionando normalmente para busca e montagem da Tier List.
 
